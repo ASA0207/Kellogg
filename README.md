@@ -1,9 +1,9 @@
-# Kellogg Discord
+# Kellogg Discord — SPICY Edition
 
-자유롭게 들락날락하는 Discord 서버 홍보 페이지.
+기존 HIP Edition 기반으로 홍보 문구를 훨씬 맵고 장난스럽게 강화.
 
-서버장: 시리얼
-
-중요: 성윤모 보유중
-
-Discord 초대 링크를 주면 가입 버튼을 추가할 수 있습니다.
+- 정신줄 놓은 사람 보유
+- 또라이 보유
+- 관중 보유
+- 성윤모 보유중
+- 기존 BGM/플레이어/입장 연출 유지
